@@ -1,2 +1,5 @@
 
 .env.local
+
+# sentry enviroment files
+.env.sentry-build-plugin
