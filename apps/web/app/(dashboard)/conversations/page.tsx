@@ -1,5 +1,5 @@
 const Page = () => {
-  return <div>Customization</div>
+  return <div>Conversations</div>
 }
 
 export default Page
