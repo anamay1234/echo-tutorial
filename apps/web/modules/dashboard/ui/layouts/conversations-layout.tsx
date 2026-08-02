@@ -14,7 +14,7 @@ export const ConversationsLayout = ({
     <ResizablePanelGroup className="h-full flex-1" orientation="horizontal">
       {/* original = defaultSize={30} maxSize={30} but i
             I changed to 300 cuz i cant see nothing bruh */}
-      <ResizablePanel defaultSize={300} maxSize={300} minSize={20}>
+      <ResizablePanel defaultSize={400} maxSize={400} minSize={20}>
         <ConversationsPanel />
       </ResizablePanel>
       <ResizableHandle />
